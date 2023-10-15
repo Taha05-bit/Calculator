@@ -5,7 +5,7 @@ class Calculator {
       this.clear()
     }
   
-    clear() {
+    clear() {  
       this.currentOperand = ''
       this.previousOperand = ''
       this.operation = undefined
